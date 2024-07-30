@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center" dir="auto">
 <img width="200" style="max-width: 100%;" src="public/logo/logo-myissue.svg" alt="Logo">
 </p>
@@ -157,3 +158,6 @@ I would love to hear your feedback, suggestions, or any issues you encounter whi
 # License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# jetstream-inertai-with-multi-roles-vuejs
+>>>>>>> origin/main
